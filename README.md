@@ -1,3 +1,3 @@
 # webtech-profile
 
-Template pagina profil
+Template profile page
